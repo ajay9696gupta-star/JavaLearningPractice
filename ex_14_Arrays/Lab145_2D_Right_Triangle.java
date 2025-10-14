@@ -2,7 +2,7 @@ package ex_14_Arrays;
 
 import java.util.Scanner;
 
-public class Lab145_2D_Left_Triangle {
+public class Lab145_2D_Right_Triangle {
     public static void main(String[] args) {
         // left hand triangle pattern
         // n = 3
