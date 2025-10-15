@@ -11,7 +11,7 @@ public class ATBx {
     String courseName;
     String paymentID;
 
-    // Behaviour
+    // Behaviour -> Functionality
     void speak(){};
     void eat(){};
     void sleep(){};
