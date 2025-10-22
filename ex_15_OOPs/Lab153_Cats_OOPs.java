@@ -27,7 +27,7 @@ public class Lab153_Cats_OOPs {
 
 class cat {
 
-    String name;// Instance variable
+    String name;// Within the class is called Instance variable
     cat(){
         name = "kitty";
     }
@@ -37,7 +37,7 @@ class cat {
     }
 
     void running(){
-        int local_Variable = 10; // Local variable
+        int local_Variable = 10; // Within the class is called Local variable
 
         System.out.println("who is running -> " + this.name);
 
