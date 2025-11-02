@@ -1,7 +1,12 @@
 package ex_18_OPPs_Polymorphism.MethodOverloading;
 
+import java.util.Scanner;
+
 public class Calculator {
     public static void main(String[] args) {
+
+        /*Scanner scanner = new Scanner(System.in);
+        scanner.nextInt();*/
         Calc c1 = new Calc();
       double result =  c1.add(3.45,4.64);
         c1.add(2,8);
